@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ResumeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B049FEDE-FE61-45DA-962F-52F929C4A6F4}|ResumeManagement\\ResumeManagement.csproj|d:\\resumemanagement\\resumemanagement\\application\\services\\resumeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B049FEDE-FE61-45DA-962F-52F929C4A6F4}|ResumeManagement\\ResumeManagement.csproj|solutionrelative:resumemanagement\\application\\services\\resumeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B049FEDE-FE61-45DA-962F-52F929C4A6F4}|ResumeManagement\\ResumeManagement.csproj|d:\\resumemanagement\\resumemanagement\\controllers\\resumecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B049FEDE-FE61-45DA-962F-52F929C4A6F4}|ResumeManagement\\ResumeManagement.csproj|solutionrelative:resumemanagement\\controllers\\resumecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B049FEDE-FE61-45DA-962F-52F929C4A6F4}|ResumeManagement\\ResumeManagement.csproj|d:\\resumemanagement\\resumemanagement\\application\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B049FEDE-FE61-45DA-962F-52F929C4A6F4}|ResumeManagement\\ResumeManagement.csproj|solutionrelative:resumemanagement\\application\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B049FEDE-FE61-45DA-962F-52F929C4A6F4}|ResumeManagement\\ResumeManagement.csproj|d:\\resumemanagement\\resumemanagement\\application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B049FEDE-FE61-45DA-962F-52F929C4A6F4}|ResumeManagement\\ResumeManagement.csproj|solutionrelative:resumemanagement\\application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B049FEDE-FE61-45DA-962F-52F929C4A6F4}|ResumeManagement\\ResumeManagement.csproj|d:\\resumemanagement\\resumemanagement\\application\\dtos\\resumesearchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B049FEDE-FE61-45DA-962F-52F929C4A6F4}|ResumeManagement\\ResumeManagement.csproj|solutionrelative:resumemanagement\\application\\dtos\\resumesearchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B049FEDE-FE61-45DA-962F-52F929C4A6F4}|ResumeManagement\\ResumeManagement.csproj|d:\\resumemanagement\\resumemanagement\\persistence\\resumedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B049FEDE-FE61-45DA-962F-52F929C4A6F4}|ResumeManagement\\ResumeManagement.csproj|solutionrelative:resumemanagement\\persistence\\resumedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B049FEDE-FE61-45DA-962F-52F929C4A6F4}|ResumeManagement\\ResumeManagement.csproj|d:\\resumemanagement\\resumemanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B049FEDE-FE61-45DA-962F-52F929C4A6F4}|ResumeManagement\\ResumeManagement.csproj|solutionrelative:resumemanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B049FEDE-FE61-45DA-962F-52F929C4A6F4}|ResumeManagement\\ResumeManagement.csproj|d:\\resumemanagement\\resumemanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B049FEDE-FE61-45DA-962F-52F929C4A6F4}|ResumeManagement\\ResumeManagement.csproj|solutionrelative:resumemanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B049FEDE-FE61-45DA-962F-52F929C4A6F4}|ResumeManagement\\ResumeManagement.csproj|d:\\resumemanagement\\resumemanagement\\application\\services\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B049FEDE-FE61-45DA-962F-52F929C4A6F4}|ResumeManagement\\ResumeManagement.csproj|solutionrelative:resumemanagement\\application\\services\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B049FEDE-FE61-45DA-962F-52F929C4A6F4}|ResumeManagement\\ResumeManagement.csproj|d:\\resumemanagement\\resumemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B049FEDE-FE61-45DA-962F-52F929C4A6F4}|ResumeManagement\\ResumeManagement.csproj|solutionrelative:resumemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B049FEDE-FE61-45DA-962F-52F929C4A6F4}|ResumeManagement\\ResumeManagement.csproj|d:\\resumemanagement\\resumemanagement\\models\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B049FEDE-FE61-45DA-962F-52F929C4A6F4}|ResumeManagement\\ResumeManagement.csproj|solutionrelative:resumemanagement\\models\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B049FEDE-FE61-45DA-962F-52F929C4A6F4}|ResumeManagement\\ResumeManagement.csproj|d:\\resumemanagement\\resumemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B049FEDE-FE61-45DA-962F-52F929C4A6F4}|ResumeManagement\\ResumeManagement.csproj|solutionrelative:resumemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B049FEDE-FE61-45DA-962F-52F929C4A6F4}|ResumeManagement\\ResumeManagement.csproj|d:\\resumemanagement\\resumemanagement\\application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B049FEDE-FE61-45DA-962F-52F929C4A6F4}|ResumeManagement\\ResumeManagement.csproj|solutionrelative:resumemanagement\\application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B049FEDE-FE61-45DA-962F-52F929C4A6F4}|ResumeManagement\\ResumeManagement.csproj|d:\\resumemanagement\\resumemanagement\\application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B049FEDE-FE61-45DA-962F-52F929C4A6F4}|ResumeManagement\\ResumeManagement.csproj|solutionrelative:resumemanagement\\application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ResumeManagement\\ResumeManagement\\Migrations\\20250408234155_Migration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ResumeManagement\\Migrations\\20250408234155_Migration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B049FEDE-FE61-45DA-962F-52F929C4A6F4}|ResumeManagement\\ResumeManagement.csproj|d:\\resumemanagement\\resumemanagement\\application\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B049FEDE-FE61-45DA-962F-52F929C4A6F4}|ResumeManagement\\ResumeManagement.csproj|solutionrelative:resumemanagement\\application\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B049FEDE-FE61-45DA-962F-52F929C4A6F4}|ResumeManagement\\ResumeManagement.csproj|d:\\resumemanagement\\resumemanagement\\application\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B049FEDE-FE61-45DA-962F-52F929C4A6F4}|ResumeManagement\\ResumeManagement.csproj|solutionrelative:resumemanagement\\application\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B049FEDE-FE61-45DA-962F-52F929C4A6F4}|ResumeManagement\\ResumeManagement.csproj|d:\\resumemanagement\\resumemanagement\\application\\interfaces\\iresumeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B049FEDE-FE61-45DA-962F-52F929C4A6F4}|ResumeManagement\\ResumeManagement.csproj|solutionrelative:resumemanagement\\application\\interfaces\\iresumeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B049FEDE-FE61-45DA-962F-52F929C4A6F4}|ResumeManagement\\ResumeManagement.csproj|d:\\resumemanagement\\resumemanagement\\application\\interfaces\\ilogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B049FEDE-FE61-45DA-962F-52F929C4A6F4}|ResumeManagement\\ResumeManagement.csproj|solutionrelative:resumemanagement\\application\\interfaces\\ilogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ResumeManagement\\ResumeManagement\\Migrations\\20250408221844_Migrationlogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ResumeManagement\\Migrations\\20250408221844_Migrationlogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ResumeManagement\\ResumeManagement\\Migrations\\20250408215736_MigrationName.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ResumeManagement\\Migrations\\20250408215736_MigrationName.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B049FEDE-FE61-45DA-962F-52F929C4A6F4}|ResumeManagement\\ResumeManagement.csproj|d:\\resumemanagement\\resumemanagement\\models\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B049FEDE-FE61-45DA-962F-52F929C4A6F4}|ResumeManagement\\ResumeManagement.csproj|solutionrelative:resumemanagement\\models\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B049FEDE-FE61-45DA-962F-52F929C4A6F4}|ResumeManagement\\ResumeManagement.csproj|d:\\resumemanagement\\resumemanagement\\resumemanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B049FEDE-FE61-45DA-962F-52F929C4A6F4}|ResumeManagement\\ResumeManagement.csproj|solutionrelative:resumemanagement\\resumemanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResumeSearchDto.cs",
+              "DocumentMoniker": "D:\\ResumeManagement\\ResumeManagement\\Application\\DTOs\\ResumeSearchDto.cs",
+              "RelativeDocumentMoniker": "ResumeManagement\\Application\\DTOs\\ResumeSearchDto.cs",
+              "ToolTip": "D:\\ResumeManagement\\ResumeManagement\\Application\\DTOs\\ResumeSearchDto.cs",
+              "RelativeToolTip": "ResumeManagement\\Application\\DTOs\\ResumeSearchDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T20:38:20.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\ResumeManagement\\ResumeManagement\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ResumeManagement\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\ResumeManagement\\ResumeManagement\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ResumeManagement\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T10:26:24.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResumeController.cs",
+              "DocumentMoniker": "D:\\ResumeManagement\\ResumeManagement\\Controllers\\ResumeController.cs",
+              "RelativeDocumentMoniker": "ResumeManagement\\Controllers\\ResumeController.cs",
+              "ToolTip": "D:\\ResumeManagement\\ResumeManagement\\Controllers\\ResumeController.cs",
+              "RelativeToolTip": "ResumeManagement\\Controllers\\ResumeController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:49:49.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResumeService.cs",
+              "DocumentMoniker": "D:\\ResumeManagement\\ResumeManagement\\Application\\Services\\ResumeService.cs",
+              "RelativeDocumentMoniker": "ResumeManagement\\Application\\Services\\ResumeService.cs",
+              "ToolTip": "D:\\ResumeManagement\\ResumeManagement\\Application\\Services\\ResumeService.cs",
+              "RelativeToolTip": "ResumeManagement\\Application\\Services\\ResumeService.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAAANkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T09:22:05.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\ResumeManagement\\ResumeManagement\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ResumeManagement\\Models\\User.cs",
+              "ToolTip": "D:\\ResumeManagement\\ResumeManagement\\Models\\User.cs",
+              "RelativeToolTip": "ResumeManagement\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T09:17:02.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\ResumeManagement\\ResumeManagement\\Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "ResumeManagement\\Application\\Services\\UserService.cs",
+              "ToolTip": "D:\\ResumeManagement\\ResumeManagement\\Application\\Services\\UserService.cs",
+              "RelativeToolTip": "ResumeManagement\\Application\\Services\\UserService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T10:13:59.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Log.cs",
+              "DocumentMoniker": "D:\\ResumeManagement\\ResumeManagement\\Models\\Log.cs",
+              "RelativeDocumentMoniker": "ResumeManagement\\Models\\Log.cs",
+              "ToolTip": "D:\\ResumeManagement\\ResumeManagement\\Models\\Log.cs",
+              "RelativeToolTip": "ResumeManagement\\Models\\Log.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:52:54.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\ResumeManagement\\ResumeManagement\\Application\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "ResumeManagement\\Application\\Services\\TokenService.cs",
+              "ToolTip": "D:\\ResumeManagement\\ResumeManagement\\Application\\Services\\TokenService.cs",
+              "RelativeToolTip": "ResumeManagement\\Application\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T10:25:02.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResumeDbContext.cs",
+              "DocumentMoniker": "D:\\ResumeManagement\\ResumeManagement\\Persistence\\ResumeDbContext.cs",
+              "RelativeDocumentMoniker": "ResumeManagement\\Persistence\\ResumeDbContext.cs",
+              "ToolTip": "D:\\ResumeManagement\\ResumeManagement\\Persistence\\ResumeDbContext.cs",
+              "RelativeToolTip": "ResumeManagement\\Persistence\\ResumeDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAC4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T09:16:05.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ResumeManagement\\ResumeManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "ResumeManagement\\appsettings.json",
+              "ToolTip": "D:\\ResumeManagement\\ResumeManagement\\appsettings.json",
+              "RelativeToolTip": "ResumeManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-06T09:19:02.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LogService.cs",
+              "DocumentMoniker": "D:\\ResumeManagement\\ResumeManagement\\Application\\Services\\LogService.cs",
+              "RelativeDocumentMoniker": "ResumeManagement\\Application\\Services\\LogService.cs",
+              "ToolTip": "D:\\ResumeManagement\\ResumeManagement\\Application\\Services\\LogService.cs",
+              "RelativeToolTip": "ResumeManagement\\Application\\Services\\LogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T19:37:11.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ResumeManagement\\ResumeManagement\\Program.cs",
+              "RelativeDocumentMoniker": "ResumeManagement\\Program.cs",
+              "ToolTip": "D:\\ResumeManagement\\ResumeManagement\\Program.cs",
+              "RelativeToolTip": "ResumeManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T09:19:30.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\ResumeManagement\\ResumeManagement\\Application\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "ResumeManagement\\Application\\Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\ResumeManagement\\ResumeManagement\\Application\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "ResumeManagement\\Application\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T10:13:19.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\ResumeManagement\\ResumeManagement\\Application\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "ResumeManagement\\Application\\DTOs\\LoginDto.cs",
+              "ToolTip": "D:\\ResumeManagement\\ResumeManagement\\Application\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "ResumeManagement\\Application\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T10:24:24.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\ResumeManagement\\ResumeManagement\\Application\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "ResumeManagement\\Application\\DTOs\\RegisterDto.cs",
+              "ToolTip": "D:\\ResumeManagement\\ResumeManagement\\Application\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "ResumeManagement\\Application\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T10:15:09.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250408234155_Migration2.cs",
+              "DocumentMoniker": "D:\\ResumeManagement\\ResumeManagement\\Migrations\\20250408234155_Migration2.cs",
+              "RelativeDocumentMoniker": "ResumeManagement\\Migrations\\20250408234155_Migration2.cs",
+              "ToolTip": "D:\\ResumeManagement\\ResumeManagement\\Migrations\\20250408234155_Migration2.cs",
+              "RelativeToolTip": "ResumeManagement\\Migrations\\20250408234155_Migration2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T23:41:55.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IResumeService.cs",
+              "DocumentMoniker": "D:\\ResumeManagement\\ResumeManagement\\Application\\Interfaces\\IResumeService.cs",
+              "RelativeDocumentMoniker": "ResumeManagement\\Application\\Interfaces\\IResumeService.cs",
+              "ToolTip": "D:\\ResumeManagement\\ResumeManagement\\Application\\Interfaces\\IResumeService.cs",
+              "RelativeToolTip": "ResumeManagement\\Application\\Interfaces\\IResumeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T21:02:29.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "D:\\ResumeManagement\\ResumeManagement\\Application\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "ResumeManagement\\Application\\Interfaces\\ITokenService.cs",
+              "ToolTip": "D:\\ResumeManagement\\ResumeManagement\\Application\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "ResumeManagement\\Application\\Interfaces\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T10:25:30.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ILogService.cs",
+              "DocumentMoniker": "D:\\ResumeManagement\\ResumeManagement\\Application\\Interfaces\\ILogService.cs",
+              "RelativeDocumentMoniker": "ResumeManagement\\Application\\Interfaces\\ILogService.cs",
+              "ToolTip": "D:\\ResumeManagement\\ResumeManagement\\Application\\Interfaces\\ILogService.cs",
+              "RelativeToolTip": "ResumeManagement\\Application\\Interfaces\\ILogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T19:14:47.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250408221844_Migrationlogs.cs",
+              "DocumentMoniker": "D:\\ResumeManagement\\ResumeManagement\\Migrations\\20250408221844_Migrationlogs.cs",
+              "RelativeDocumentMoniker": "ResumeManagement\\Migrations\\20250408221844_Migrationlogs.cs",
+              "ToolTip": "D:\\ResumeManagement\\ResumeManagement\\Migrations\\20250408221844_Migrationlogs.cs",
+              "RelativeToolTip": "ResumeManagement\\Migrations\\20250408221844_Migrationlogs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T22:18:44.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250408215736_MigrationName.cs",
+              "DocumentMoniker": "D:\\ResumeManagement\\ResumeManagement\\Migrations\\20250408215736_MigrationName.cs",
+              "RelativeDocumentMoniker": "ResumeManagement\\Migrations\\20250408215736_MigrationName.cs",
+              "ToolTip": "D:\\ResumeManagement\\ResumeManagement\\Migrations\\20250408215736_MigrationName.cs",
+              "RelativeToolTip": "ResumeManagement\\Migrations\\20250408215736_MigrationName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T21:57:36.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Resume.cs",
+              "DocumentMoniker": "D:\\ResumeManagement\\ResumeManagement\\Models\\Resume.cs",
+              "RelativeDocumentMoniker": "ResumeManagement\\Models\\Resume.cs",
+              "ToolTip": "D:\\ResumeManagement\\ResumeManagement\\Models\\Resume.cs",
+              "RelativeToolTip": "ResumeManagement\\Models\\Resume.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T09:17:50.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ResumeManagement.csproj",
+              "DocumentMoniker": "D:\\ResumeManagement\\ResumeManagement\\ResumeManagement.csproj",
+              "RelativeDocumentMoniker": "ResumeManagement\\ResumeManagement.csproj",
+              "ToolTip": "D:\\ResumeManagement\\ResumeManagement\\ResumeManagement.csproj",
+              "RelativeToolTip": "ResumeManagement\\ResumeManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-06T09:13:43.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
